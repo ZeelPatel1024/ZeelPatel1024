@@ -1,10 +1,11 @@
-## Hi there my name is Zeel Patel!👋
+## Hi there!
+## My name is Zeel Patel! 👋
 <p> I am a Computer Science student at The University of Illinois at Chicago!</p>
 
 <p> My journey in software development began in high school when I created my first webpage using JavaScript, HTML, and CSS in my AP Computer Science class. Since then, I have been passionate about pursuing a career in this dynamic field.</p>
 
-## My experience!
-<p>In the summer 2024 I worked as a Google STEP intern in San Francisco California!</p>
+## My experience! 💻
+<p> ⚫ In the summer 2024 I worked as a Google STEP intern in San Francisco California! ☀️</p>
 <!--
 **ZeelPatel1024/ZeelPatel1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
