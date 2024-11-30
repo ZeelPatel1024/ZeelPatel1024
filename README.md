@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there my name is Zeel Patel!👋
+<p> I am a Computer Science student at The University of Illinois at Chicago!</p>
 <!--
 **ZeelPatel1024/ZeelPatel1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p> My name is Zeel Patel!!!!</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
