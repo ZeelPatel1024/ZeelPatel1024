@@ -1,5 +1,5 @@
 ## Hi there!
-## My name is Zeel Patel! 👋
+## My name is Zeel Patel!! 👋
 <p> I am a Computer Science student at The University of Illinois at Chicago!</p>
 
 <p> My journey in software development began in high school when I created my first webpage using JavaScript, HTML, and CSS in my AP Computer Science class. Since then, I have been passionate about pursuing a career in this dynamic field.</p>
