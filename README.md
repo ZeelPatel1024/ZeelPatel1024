@@ -13,7 +13,7 @@
 <li> Mobile App Development
 <li> Machine Organization
 <li> Program Design Two
-<li> Programming Practicum,
+<li> Programming Practicum
   
 ## My experience! 💻
 <li> From May 2024 to Aug 2024 I worked as a Google STEP intern in San Francisco California! ☀️</li>
